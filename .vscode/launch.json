@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "stringbuffered",
+            "request": "launch",
+            "mainClass": "stringbuffered",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "jagged_array",
+            "request": "launch",
+            "mainClass": "jagged_array",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "multi_dim_arrays",
+            "request": "launch",
+            "mainClass": "multi_dim_arrays",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "arrays",
+            "request": "launch",
+            "mainClass": "arrays",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Method_overloading",
+            "request": "launch",
+            "mainClass": "Method_overloading",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "methods_in_java",
+            "request": "launch",
+            "mainClass": "methods_in_java",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "rest",
+            "request": "launch",
+            "mainClass": "rest",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "classes_and_objects",
+            "request": "launch",
+            "mainClass": "classes_and_objects",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "for_loop",
+            "request": "launch",
+            "mainClass": "for_loop",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "do_while",
+            "request": "launch",
+            "mainClass": "do_while",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "If_else",
+            "request": "launch",
+            "mainClass": "If_else",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Switch_old",
+            "request": "launch",
+            "mainClass": "Switch_old",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "bye",
+            "request": "launch",
+            "mainClass": "bye",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "calc",
+            "request": "launch",
+            "mainClass": "calc",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "conversion_and_casting",
+            "request": "launch",
+            "mainClass": "conversion_and_casting",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "hii",
+            "request": "launch",
+            "mainClass": "hii",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "if_else_if",
+            "request": "launch",
+            "mainClass": "if_else_if",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "logical_operatorrs",
+            "request": "launch",
+            "mainClass": "logical_operatorrs",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "operators",
+            "request": "launch",
+            "mainClass": "operators",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "primitive_dttypes",
+            "request": "launch",
+            "mainClass": "primitive_dttypes",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "relational_operators",
+            "request": "launch",
+            "mainClass": "relational_operators",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "switch_new",
+            "request": "launch",
+            "mainClass": "switch_new",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "ternary_operator",
+            "request": "launch",
+            "mainClass": "ternary_operator",
+            "projectName": "Java course_b1a6bc7d"
+        }
+    ]
+}
