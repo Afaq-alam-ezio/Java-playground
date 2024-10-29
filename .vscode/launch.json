@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousObject",
+            "request": "launch",
+            "mainClass": "AnonymousObject",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Para_Constructor",
+            "request": "launch",
+            "mainClass": "Para_Constructor",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Keyword",
+            "request": "launch",
+            "mainClass": "Keyword",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "class This_keyword{",
+            "request": "launch",
+            "mainClass": "class This_keyword{",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "encapsulation",
+            "request": "launch",
+            "mainClass": "encapsulation",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "static_method",
+            "request": "launch",
+            "mainClass": "static_method",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "static_variables",
+            "request": "launch",
+            "mainClass": "static_variables",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
             "name": "stringbuffered",
             "request": "launch",
             "mainClass": "stringbuffered",
