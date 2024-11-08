@@ -6,6 +6,153 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Try_finally",
+            "request": "launch",
+            "mainClass": "Try_finally",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "User_input",
+            "request": "launch",
+            "mainClass": "User_input",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Ducking_exception",
+            "request": "launch",
+            "mainClass": "Ducking_exception",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Custom_exception",
+            "request": "launch",
+            "mainClass": "Custom_exception",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Throw",
+            "request": "launch",
+            "mainClass": "Throw",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Multi_catches",
+            "request": "launch",
+            "mainClass": "Multi_catches",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Exception_intro",
+            "request": "launch",
+            "mainClass": "Exception_intro",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Lambda_with_ret_type",
+            "request": "launch",
+            "mainClass": "Lambda_with_ret_type",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Lambda",
+            "request": "launch",
+            "mainClass": "Lambda",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Enum_class",
+            "request": "launch",
+            "mainClass": "Enum_class",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Enum_if_else_and_switch",
+            "request": "launch",
+            "mainClass": "Enum_if_else_and_switch",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Enumerator",
+            "request": "launch",
+            "mainClass": "Enumerator",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "why_Interface_needed",
+            "request": "launch",
+            "mainClass": "why_Interface_needed",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Abstract_Anonymous_Inner_class",
+            "request": "launch",
+            "mainClass": "Abstract_Anonymous_Inner_class",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Anony_class",
+            "request": "launch",
+            "mainClass": "Anony_class",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Inner_classes",
+            "request": "launch",
+            "mainClass": "Inner_classes",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Abstract",
+            "request": "launch",
+            "mainClass": "Abstract",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Up_and_down_cast",
+            "request": "launch",
+            "mainClass": "Up_and_down_cast",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Final",
+            "request": "launch",
+            "mainClass": "Final",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "method_overriding",
+            "request": "launch",
+            "mainClass": "method_overriding",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Super_and_This",
+            "request": "launch",
+            "mainClass": "Super_and_This",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
             "name": "Calculator",
             "request": "launch",
             "mainClass": "Calculator",

@@ -9,8 +9,8 @@ public class User_input{
         Scanner s = new Scanner(System.in);
         int x = s.nextInt();
 
-        System.out.println(x);
+        System.out.println("Number entered is : " + x);
 
-        s.close();        
+        s.close();
     }
 }
