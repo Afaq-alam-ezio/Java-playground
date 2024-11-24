@@ -7,7 +7,7 @@
 // Instead of using an abstract class above, below better use an interface, mostly useful for Method overriding and also for abstract methods
 interface Computer{
     
-    public abstract void code();
+    public abstract void code();        // here although we have written  public abstract , but this by default already there, so no need to write it
 } 
 
 

@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stream_api",
+            "request": "launch",
+            "mainClass": "Stream_api",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Behind_forEach_method",
+            "request": "launch",
+            "mainClass": "Behind_forEach_method",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Stream_api_1",
+            "request": "launch",
+            "mainClass": "Stream_api_1",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Comparator_or_comparable",
+            "request": "launch",
+            "mainClass": "Comparator_or_comparable",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Map_concept",
+            "request": "launch",
+            "mainClass": "Map_concept",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Collections_for_ArrayList",
+            "request": "launch",
+            "mainClass": "Collections_for_ArrayList",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Collections_for_Set",
+            "request": "launch",
+            "mainClass": "Collections_for_Set",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Collections",
+            "request": "launch",
+            "mainClass": "Collections",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Race_condition",
+            "request": "launch",
+            "mainClass": "Race_condition",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Runnable_vs_Class",
+            "request": "launch",
+            "mainClass": "Runnable_vs_Class",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Priority_and_sleep",
+            "request": "launch",
+            "mainClass": "Priority_and_sleep",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
+            "name": "Threads",
+            "request": "launch",
+            "mainClass": "Threads",
+            "projectName": "Java course_b1a6bc7d"
+        },
+        {
+            "type": "java",
             "name": "Try_finally",
             "request": "launch",
             "mainClass": "Try_finally",

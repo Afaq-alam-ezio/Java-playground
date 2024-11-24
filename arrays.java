@@ -6,7 +6,8 @@ public class arrays {
         int x[] = {1, 2, 3, 4}; // this is a static array created in heap where size is not defined thus looks like a bit dynamic
 
         int y[] = new int[4];   // here all 4 values of y is set to 0.
-
+        y = new int[]{5, 6, 2, 1};
+        // y[] = {5, 6, 4, 7};          will give error
         // System.out.println("At index " + 0 + " value is " + x[0]);  // to print vales individually using indexes
 
         System.out.print("[ ");
@@ -14,9 +15,9 @@ public class arrays {
         {
             // System.out.println("At index " + i + " value is " + x[i]);
             if(i <= 2)
-                System.out.print(x[i] + ", ");
+                System.out.print(y[i] + ", ");
             else
-                System.out.println(x[i] + " ]");
+                System.out.println(y[i] + " ]");
         }
         System.out.println("printing done!");
     }
